@@ -2,6 +2,7 @@
 
 
 This is my home page! My name is Vibhor Bhargava and I am a student at Cal State Fullerton and my major is Computer Science.
+My Github Page is http://github.com/vibhorbh.
 
 ## CPSC Lab 120 2023
 
